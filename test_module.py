@@ -1,0 +1,1 @@
+fav_fruit = 'apple'
